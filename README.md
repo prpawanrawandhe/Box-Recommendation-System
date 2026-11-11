@@ -37,7 +37,7 @@ The system helps warehouse teams select an appropriate shipping box for products
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/prpawanrawandhe/Box-Recommendation-System.git
 cd "Box Recommendation System"
 ```
 
